@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28516.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gizmo.Wpf", "Gizmo.Wpf\Gizmo.Wpf.csproj", "{10547E77-806A-45E9-9237-B17BE79D47E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10547E77-806A-45E9-9237-B17BE79D47E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10547E77-806A-45E9-9237-B17BE79D47E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10547E77-806A-45E9-9237-B17BE79D47E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10547E77-806A-45E9-9237-B17BE79D47E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A2D302-6A82-44DA-9153-2C5DACA4F76A}
+	EndGlobalSection
+EndGlobal
